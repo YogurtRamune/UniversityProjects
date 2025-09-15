@@ -1,2 +1,2 @@
 # UniversityProjects
-My university projects
+My university projects and other related files
